@@ -1,0 +1,1 @@
+Folder assets chứa các file hình ảnh, CSS, kiểu font... được dùng cho webapp.

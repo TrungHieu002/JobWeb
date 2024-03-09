@@ -1,0 +1,1 @@
+Folder contexts chứa các biến global, sử dụng React context hook để sử dụng & thay đổi biến tại mọi nơi của project.

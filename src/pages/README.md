@@ -1,0 +1,1 @@
+Folder pages chứa các file .js ứng với từng giao diện của webapp.

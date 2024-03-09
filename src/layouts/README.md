@@ -1,0 +1,1 @@
+Folder layouts chứa các layout component được dùng chung cho các giao diện của webapp (navigation menu, container...)
